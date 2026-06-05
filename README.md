@@ -1,5 +1,5 @@
 
-# Serverless API (Terraform + AWS Lambda)
+# DynamoDB access via APIGateway
 
 This repository contains a Terraform-based, modular serverless API deployment for AWS. It provisions an API Gateway fronting a Lambda function with a DynamoDB backend, plus the necessary IAM roles. 
 
